@@ -1,5 +1,5 @@
 # Welcome to My GitHub Profile!
-### Hello there! 👋 Welcome to my GitHub profile. My name is Jothsh Thomas Mammen, and I'm passionate about software development, open-source projects, machine learning,Artificial intelligence.
+### Hello there! 👋 Welcome to my GitHub profile. My name is Jothish Thomas Mammen, and I'm passionate about software development, open-source projects, machine learning,Artificial intelligence.
 # About Me
 I am a software developer, data scientist based in india. With over three years of experience, I have gained expertise in  AI engineering, Python programming, data analysis, etc. I am always eager to learn and explore new technologies to expand my knowledge and skill set.
 # What You'll Find Here
